@@ -1,8 +1,8 @@
-#Nebula Programming Language
+# Nebula Programming Language
 
 Nebula is a programming language under development at the first stage.
 
-##TODO:
+## TODO:
 - [ ] The Assembler
 	- [ ] Intel Architecture
 		- [x] Registers
