@@ -7,6 +7,7 @@ Nebula is a under developement programming language from scratch written in C++.
 	- [ ] Intel Architecture
 		- [x] ~~Registers~~
 		- [ ] Pointers (SIB & RM)
+		- [ ] Labels (IMMEDIATE & RELAIVE)
 		- [ ] Instructions
 	- [ ] ARM Architecture
 	- [ ] MIPS Architecture
