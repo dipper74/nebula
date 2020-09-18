@@ -1,9 +1,9 @@
 # Nebula Programming Language
 
-Nebula is a programming language under development at the first stage.
+Nebula is a under developement programming language from scratch written in C++.
 
 ## TODO:
-- [ ] The Assembler
+- [-] The Assembler
 	- [ ] Intel Architecture
 		- [x] Registers
 		- [ ] Pointers (SIB)
@@ -11,3 +11,6 @@ Nebula is a programming language under development at the first stage.
 	- [ ] ARM Architecture
 	- [ ] MIPS Architecture
 	- [ ] PowerPc Architecture
+- [ ] The Lexer
+- [ ] The Parser
+- [ ] The Compiler
